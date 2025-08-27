@@ -21,3 +21,7 @@ pip install -r requirements.txt
 
 # Start Jupyter Notebook
 jupyter notebook notebook/ML-Security.ipynb
+
+## 📂 Project Presentation
+[Download Final Slides](Docs/Final%20Presentation%20Slide.pptx)
+
